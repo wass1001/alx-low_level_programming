@@ -1,2 +1,1 @@
-# alx-low_level_programming
-woow
+c for all 
